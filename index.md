@@ -15,6 +15,8 @@ In my free time, I like to:
 3. play video games.
 4. travel around
 
+By the way, I have a cat and he's name is fatty. [cat](./cat.jpg)
+
 My favrite lyric is from *José González - Stay Alive*:  
 > We'll do whatever just to stay alive.  
 
