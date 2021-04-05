@@ -1,5 +1,5 @@
 #Jiayan Dong's Page  
-![me](/root/me.jpg)
+![me](/me.jpg)
 This is **Jiayan Dong's Page** for *CSE 110* at ***UCSD***  
 ## About me as a programmer  
 My name is Jiayan Dong and I'm a junior computer science student at UCSD. I'm 21 years old and I can use the following programming languages proficiently:  
